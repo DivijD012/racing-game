@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="utf-8">
+    <title>Racing Game</title>    
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="./style.css">
+    <style>
+        body {
+            overflow: hidden;
+            margin: 0px;
+        }
+    </style>
+    <script type="importmap">
+        {
+          "imports": {
+            "three": "./build/three.module.js"
+          }
+        }
+    </script>
+</head>
+
+<body>
+    <div id="start_screen">How to play : <br> W : Accelerate <br> S : Brakes/Reverse <br> A : Turn left <br> D : Turn right <br> P : Start the game <br> T : Toggle Camera</div>
+    <script type="module" src="client.js"></script>
+    <div id="health"></div>
+    <div id="fuel"></div>
+    <div id="time"></div>
+    <div id="score"></div>
+    <div id="distance"></div>
+    <div id="rank"></div>
+    <div id="mileage"></div>
+</body>
+
+</html>

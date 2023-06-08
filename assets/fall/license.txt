@@ -1,0 +1,11 @@
+Model Information:
+* title:	Fall Guys
+* source:	https://sketchfab.com/3d-models/fall-guys-fc86f6c5d5be4a228649e7b790e099ba
+* author:	MuriloViola (https://sketchfab.com/MuriloViola)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Fall Guys" (https://sketchfab.com/3d-models/fall-guys-fc86f6c5d5be4a228649e7b790e099ba) by MuriloViola (https://sketchfab.com/MuriloViola) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

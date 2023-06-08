@@ -1,0 +1,77 @@
+  #health {
+    position: absolute;
+    top: 20px;
+    width: 100%;
+    text-align: center;
+    z-index: 100;
+    display: block;
+    color: white;
+  }
+  #fuel {
+    position: absolute;
+    top: 40px;
+    width: 100%;
+    text-align: center;
+    z-index: 100;
+    display: block;
+    color: white;
+  }
+  #time {
+    position: absolute;
+    top: 60px;
+    width: 100%;
+    text-align: center;
+    z-index: 100;
+    display: block;
+    color: white;
+  }
+  #score {
+    position: absolute;
+    top: 80px;
+    width: 100%;
+    text-align: center;
+    z-index: 100;
+    display: block;
+    color: white;
+  }
+  #distance {
+    position: absolute;
+    top: 100px;
+    width: 100%;
+    text-align: center;
+    z-index: 100;
+    display: block;
+    color: white;
+  }
+  #mileage {
+    position: absolute;
+    top: 10px;
+    width: 100%;
+    z-index: 100;
+    display: block;
+    font-size: 20px;
+    color: white;
+  }
+
+  #rank {
+    position: absolute;
+    top: 50%;
+    width: 100%;
+    text-align: center;
+    z-index: 100;
+    display: block;
+    color: white;
+    font-weight: bolder;
+    font-size: xx-large;
+  }
+  #start_screen {
+    position: absolute;
+    top: 25%;
+    width: 100%;
+    text-align: center;
+    z-index: 100;
+    display: block;
+    color: black;
+    font-weight: bolder;
+    font-size:50px;
+  }
